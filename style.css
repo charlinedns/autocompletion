@@ -1,0 +1,6 @@
+#global{
+    display: flex;
+}
+#global input{
+    display: inline;
+}
